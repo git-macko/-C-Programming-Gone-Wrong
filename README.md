@@ -1,5 +1,7 @@
 # -C-Programming-Gone-Wrong
 
+Language: C++
+
 Programming Gone Wrong are 5 program mistakes and errors that can happen.
 
 1) Demonstrate an error where a function returns the address of a locally declared variable
