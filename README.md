@@ -1,4 +1,4 @@
-# -C-Programming-Gone-Wrong
+C++ Programming-Gone-Wrong
 
 Language: C++
 
